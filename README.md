@@ -9,7 +9,7 @@ La CalculadoraSwing es una aplicación de calculadora básica implementada en Ja
 - Muestra los números y resultados en un campo de texto.
 
 ## Capturas de pantalla
-_Inserta aquí capturas de pantalla de tu aplicación si lo deseas_
+![Interfaz de usuario](C:\Users\Usuario\Pictures\Captura de pantalla 2024-01-23 003653.png)
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/tu_usuario/CalculadoraSwing.git`
